@@ -49,7 +49,7 @@ function [T0N,Ti,T0i] = dh2tf(DH_table)
 % [           0,            0, 0,  1]
 % =========================================================================
 
-Ti = cell(1,size(DH_table,1));
+Ti  = cell(1,size(DH_table,1));
 T0i = cell(1,size(DH_table,1));
 T0N = eye(4);
 
