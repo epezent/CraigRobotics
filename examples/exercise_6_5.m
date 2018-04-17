@@ -5,7 +5,7 @@ clc
 % Evan Pezent
 % 4/17/2018
 
-% Excersise 6.5/6.19 of Craig
+% Exercise 6.5/6.19 of Craig
 
 addpath('../')
 
