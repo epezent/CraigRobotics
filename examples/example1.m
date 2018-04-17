@@ -7,6 +7,8 @@ clc
 
 % From Section 6.7 and Example 6.3 of Craig
 
+addpath('../')
+
 %% Problem Setup
 syms m1 m2 l1 l2 q1 q2 q1d q2d q1dd q2dd tau1 tau2 g
 
